@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://localhost/blog/2012/05/29/awesome-first-post/</loc>
+        <lastmod>2012-05-29T22:49:27+05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost/blog/2012/05/29/second-post/</loc>
+        <lastmod>2012-05-29T22:52:22+05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost/blog/archives/</loc>
+        <lastmod>2012-05-29T22:52:22+05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost/</loc>
+        <lastmod>2012-05-29T22:52:22+05:00</lastmod>
+    </url>
+</urlset>

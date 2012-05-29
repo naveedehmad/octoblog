@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Awesome Blog]]></title>
+  <link href="http://localhost/atom.xml" rel="self"/>
+  <link href="http://localhost/"/>
+  <updated>2012-05-29T22:52:22+05:00</updated>
+  <id>http://localhost/</id>
+  <author>
+    <name><![CDATA[Naveed Ahmad]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Second post]]></title>
+    <link href="http://localhost/blog/2012/05/29/second-post/"/>
+    <updated>2012-05-29T22:52:00+05:00</updated>
+    <id>http://localhost/blog/2012/05/29/second-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Awesome First Post]]></title>
+    <link href="http://localhost/blog/2012/05/29/awesome-first-post/"/>
+    <updated>2012-05-29T22:49:00+05:00</updated>
+    <id>http://localhost/blog/2012/05/29/awesome-first-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
